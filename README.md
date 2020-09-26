@@ -10,7 +10,9 @@ https://github.com/UB-Mannheim/tesseract/wiki
 ```
 
 # install pytesseract
-
+```
+pip install pytesseract
+```
 
 # using tesseract-ocr via python code
 ```
