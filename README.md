@@ -26,3 +26,5 @@ image = Image.open("image.jpg")
 text = pytesseract.image_to_string(image,lang='eng',config='--psm 11')
 print(text)
 ```
+# about --psm
+https://github.com/tesseract-ocr/tesseract/issues/434
